@@ -21,7 +21,7 @@ AI Image Signal Processing 的核心模块：
 | `airemosaic` | AI Remosaic |
 | `rltm` | RLTM |
 
-代码仓库为私有。
+代码仓库：`aiisp-core`（私有）。
 
 ## 3. Agent 设计
 
